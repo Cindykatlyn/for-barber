@@ -1,4 +1,4 @@
-# for-barber
+# for-barber Wear
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
